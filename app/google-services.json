@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "397253288554",
+    "firebase_url": "https://project-health-2b5c3-default-rtdb.firebaseio.com",
+    "project_id": "project-health-2b5c3",
+    "storage_bucket": "project-health-2b5c3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397253288554:android:e1f3231487d5d9a9fe2013",
+        "android_client_info": {
+          "package_name": "com.example.adminfoodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397253288554-vdqi508lcut1h10glll000jsrk14ee4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8K_uzINg1ElupO7WK-5W25LcrLPECYuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397253288554-vdqi508lcut1h10glll000jsrk14ee4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
